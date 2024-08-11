@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://blue-lock-player-database-production.up.railway.app' // Make sure to include 'https://' or 'http://'
+    baseURL: 'https://blue-lock-player-database-production.up.railway.app' 
 });
 
 export default api;
