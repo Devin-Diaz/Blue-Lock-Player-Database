@@ -1,0 +1,24 @@
+
+
+.button {
+    background-color: yellow; /* Dark blue background */
+    color: #00008b; /* White text */
+    border: 2px solid #FFD700; /* Gold border to match the theme */
+    padding: 10px 20px; /* Padding for better size and spacing */
+    font-size: 1.2rem; /* Slightly larger font size for readability */
+    font-weight: 700; /* Bold text */
+    border-radius: 10px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition for background and transform */
+    margin: 0 10px; /* Add margin to ensure spacing between buttons */
+}
+
+.button:hover {
+    background-color: #FFD700; /* Gold background on hover */
+    color: #00008b; /* Dark blue text on hover */
+    transform: scale(1.1); /* Slightly enlarge the button on hover */
+}
+
+.button:active {
+    transform: scale(0.9); /* Slightly shrink the button on click */
+}

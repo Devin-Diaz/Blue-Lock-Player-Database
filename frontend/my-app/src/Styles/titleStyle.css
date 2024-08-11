@@ -1,0 +1,36 @@
+/* Container for the title and arrow */
+.title--container {
+    display: flex;
+    justify-content: center; /* Center the title */
+    align-items: center; /* Vertically align the content */
+    position: relative; /* Relative positioning for the container */
+    padding: 30px; /* Adjust padding as needed */
+}
+
+/* Styling for the arrow */
+.title--container img {
+    position: absolute; /* Absolute positioning within the container */
+    left: 0; /* Align to the left */
+    margin-left: 50px; /* Optional: add some space from the left edge */
+    cursor: pointer; /* Pointer cursor to indicate it's clickable */
+    width: 125px;
+    transition: filter 0.3s; /* Smooth transition for filter effect */
+}
+
+/* Darken the image on hover */
+.title--container img:hover {
+    filter: brightness(70%);
+}
+
+/* Even darker when clicked */
+.title--container img:active {
+    filter: brightness(50%);
+}
+
+/* Styling for the title */
+.title--text {
+    font-size: 3.5rem; /* Adjust font size as needed */
+    font-weight: bold; /* Bold font for emphasis */
+    color: whitesmoke; /* Dark grey text color */
+    margin: 0; /* Remove default margins */
+}

@@ -1,0 +1,62 @@
+/* General styling for the player stats container */
+.player-stats--container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background: #f5f5f5; /* Light background for better readability */
+}
+
+/* Styling for each player row */
+.player-row {
+    display: flex;
+    align-items: center;
+    background: #ffffff; /* White background for contrast */
+    padding: 10px;
+    margin: 10px 0; /* Add margin to ensure proper spacing */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    transition: transform 0.2s;
+    max-width: 95%; /* Ensure the row doesn't overflow */
+    margin-left: auto; /* Center the rows */
+    margin-right: auto; /* Center the rows */
+}
+
+/* Hover effect for player row */
+.player-row:hover {
+    transform: scale(1.02); /* Slightly enlarge the row on hover */
+}
+
+/* Styling for the player image */
+.player-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+    object-fit: cover;
+    border: 2px solid #00008b; /* Dark blue border */
+}
+
+/* Styling for the player details */
+.player-details {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Individual player detail styling */
+.player-jersey,
+.player-name,
+.player-position,
+.player-age,
+.player-height,
+.player-nationality,
+.player-weapon {
+    font-size: 1.2rem; /* Larger font size for readability */
+    color: #333333; /* Dark grey text color */
+    margin-bottom: 5px;
+}
+
+/* Styling for the player name */
+.player-name {
+    font-weight: 700; /* Bold font for emphasis */
+}
+

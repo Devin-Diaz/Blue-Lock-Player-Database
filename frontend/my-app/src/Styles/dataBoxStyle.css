@@ -1,0 +1,52 @@
+Link {
+    text-decoration:none;
+
+}
+
+.databox--grid--container {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.databox--grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Increased min width */
+    gap: 30px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto; /* Center the grid */
+}
+
+.databox--card {
+    background: linear-gradient(135deg, #add8e6, #00008b); /* Gradient background */
+    border: 2px solid #FFD700; /* Gold border to match the theme */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    text-align: center;
+    padding: 25px; /* Increased padding */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    color: whitesmoke; /* Text color */
+}
+
+.databox--card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.databox--image {
+    width: 80%;
+    height: auto;
+    border-bottom: 2px solid #FFD700; /* Gold border to match the theme */
+}
+
+.databox--card h3 {
+    margin: 10px 0;
+    font-size: 1.5rem; /* Slightly larger font size */
+    color: #FFFFFF; /* White text color */
+}
