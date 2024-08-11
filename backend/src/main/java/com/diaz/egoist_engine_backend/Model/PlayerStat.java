@@ -3,8 +3,6 @@ package com.diaz.egoist_engine_backend.Model;
 import jakarta.persistence.*;
 import lombok.*;
 
-import java.util.List;
-
 @Entity
 @AllArgsConstructor
 @NoArgsConstructor

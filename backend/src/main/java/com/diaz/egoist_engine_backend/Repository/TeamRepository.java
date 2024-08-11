@@ -9,5 +9,7 @@ import java.util.List;
 
 @Repository
 public interface TeamRepository extends JpaRepository<Team, Integer> {
+
+    Team findByTeamId(Integer id);
     List<Team> findAllByArc(Arc arc);
 }

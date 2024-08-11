@@ -9,7 +9,7 @@ import java.util.Optional;
 
 @Repository
 public interface PlayerRepository extends JpaRepository<Player, Integer> {
-    Optional<Player> findByPlayerId(Integer id);
+    Player findByPlayerId(Integer id);
     Optional<Player> findByFullName(String fullName);
     List<Player> findAllByNationality(String nationality);
 }

@@ -1,0 +1,258 @@
+player_stat_id,player_id,arc_id,team_id,jersey_no,weapon,position
+1,12,6,16,8,,LWB
+2,29,1,3,1,,FW
+3,6,6,15,9,,DM
+4,113,1,3,11,,FW
+5,9,6,18,59,,FW
+6,9,2,6,59,,FW
+7,9,4,11,59,,FW
+8,49,1,2,10,,FW
+9,40,5,12,6,"[Analytical Ability,Ball Control]",DM
+10,40,6,18,27,"[Analytical Ability,Ball Control]",DM
+11,40,2,7,69,"[Analytical Ability,Ball Control]",FW
+12,40,4,10,69,"[Analytical Ability,Ball Control]",FW
+13,36,6,14,15,"[Speed, Dribbling, Gyro Shot, Sword Screw, Flow State]",LB
+14,36,2,7,23,"[Speed,Dribbling,Gyro Shot]",FW
+15,36,5,12,5,"[Speed,Dribbling,Gyro Shot,Flow State]",LW
+16,36,4,11,23,"[Speed,Dribbling,Gyro Shot]",FW
+17,100,6,14,20,,RB
+18,100,5,13,4,,RB
+19,101,5,13,10,"[Perfect Kick Technique,Dribbling,Passing,Reflex,Metavision]",CAM
+20,38,1,1,1,All-Rounder,GK
+21,30,1,4,2,,FW
+22,120,6,14,8,"[Flexible Ankles,Dribbling,Passing]",CM
+23,67,1,2,1,,FW
+24,130,6,16,9,"[Vertical Jump,Physique,Long Reach]",FW
+25,73,1,2,9,Super Shooting,FW
+26,119,1,5,1,,GK
+27,135,5,12,22,"[Trapping,Predictions]",FW
+28,135,2,6,22,"[Trapping,Predictions]",FW
+29,135,6,16,22,"[Trapping,Predictions]",FW
+30,135,4,10,22,"[Trapping,Predictions]",FW
+31,121,3,8,"1","[Godspeed,Agility]",FW
+32,61,6,17,23,"[Physique,Spatial Awareness,Reflex,Metavision,Flow State]",CB
+33,61,5,13,2,"[Physique,Spatial Awareness,Reflex,Metavision,Flow State]",CB
+34,110,6,14,2,,CB
+35,127,2,7,51,,FW
+36,127,6,16,51,,FW
+37,127,4,10,51,,FW
+38,13,6,17,5,,DM
+39,78,6,18,6,"[Off Ball Movement,Passing,Metavision]",CM
+40,4,1,2,2,,FW
+41,58,1,3,3,,FW
+42,102,2,6,7,"[Ball Control,Trapping,Flow State]",FW
+43,102,4,11,7,"[Ball Control,Trapping,Flow State]",FW
+44,102,5,12,7,"[Ball Control,Trapping,Flow State]",OFM
+45,102,1,5,11,"[Ball Control,Trapping,Flow State]",FW
+46,102,6,16,11,"[Ball Control,Trapping,Flow State]",RW
+47,1,6,15,7,,RB
+48,18,6,17,4,,LWB
+49,74,1,4,4,,FW
+50,72,1,5,3,,FW
+51,11,1,4,9,Eye Contact,FW
+52,99,6,15,77,,FW
+53,99,4,11,77,,FW
+54,79,6,14,11,"[Spatial Awareness,Adaptability,Direct Shot,Metavision,Flow State,Reflex,Ambidextrous]",RM
+55,79,1,1,11,"[Direct Shot,Spatial Awareness]",FW
+56,79,2,6,15,"[Direct Shot,Spatial Awareness,Adaptability]",FW
+57,79,2,7,15,"[Direct Shot,Spatial Awareness,Adaptability]",FW
+58,79,5,12,11,"[Direct Shot,Spatial Awareness,Adaptability,Reflex]",OFM
+59,79,4,9,15,"[Direct Shot,Spatial Awareness,Adaptability,Reflex]",FW
+60,109,6,14,1,,GK
+61,32,1,3,7,,FW
+62,90,6,15,19,,CM
+63,90,2,6,19,,CM
+64,90,4,9,19,,CM
+65,41,6,15,5,Off Ball Defence,LB
+66,41,5,13,5,Off Ball Defence,LB
+67,104,6,14,3,,LB
+68,68,6,17,50,,GK
+69,68,5,13,1,,GK
+70,66,6,16,2,,CB
+71,82,1,1,7,Speed,FW
+72,87,1,1,8,"[Dribbling,Passing,Flow State]",FW
+73,87,2,6,16,"[Dribbling,Passing,Flow State]",FW
+74,87,2,7,16,"[Dribbling,Passing,Flow State]",FW
+75,87,4,11,7,"[Dribbling,Passing,Flow State]",FW
+76,87,5,12,8,"[Dribbling,Passing,Flow State]",RB
+77,87,6,15,8,"[Dribbling,Passing,Flow State,Bee Shot]",LW
+78,87,4,9,7,"[Dribbling,Passing,Flow State]",FW
+79,97,1,3,2,,FW
+80,124,2,6,18,"[Flow State,Endurance,Chop Fients,Charging Skill,Middle Shot,Unpredictability]",FW
+81,124,2,7,18,"[Flow State,Endurance,Chop Fients,Charging Skill,Middle Shot,Unpredictability]",FW
+82,124,4,10,18,"[Flow State,Endurance,Chop Fients,Charging Skill,Middle Shot,Unpredictability]",FW
+83,124,6,17,13,"[Flow State,Endurance,Chop Fients,Charging Skill,Middle Shot,Unpredictability,Predator Eye]",FW
+84,124,5,12,13,"[Flow State,Endurance,Chop Fients,Charging Skill,Middle Shot,Unpredictability]",RW
+85,124,1,3,10,"[Flow State,Endurance,Chop Fients,Charging Skill,Middle Shot,Unpredictability]",FW
+86,93,6,17,50,,FW
+87,93,2,7,5,,FW
+88,93,4,11,5,,FW
+89,14,6,17,1,,GK
+90,136,6,16,7,"[Perfect Physicality,Knuckleball]",FW
+91,7,6,18,99,"[Physique,Spatial Awareness,Acceleration,Dragon Drive Heading,Flow State,Acceleration]",FW
+92,7,2,6,111,"[Physique,Spatial Awareness,Acceleration,Flow State,Acceleration]",FW
+93,7,5,13,13,"[Physique,Spatial Awareness,Acceleration,Flow State,Acceleration]",FW
+94,7,4,9,111,"[Physique,Spatial Awareness,Acceleration,Flow State,Acceleration]",FW
+95,77,6,17,10,"[Metavision,Ball Control,Physique]",FW
+96,137,6,18,80,,FW
+97,137,5,13,8,,FW
+98,91,6,14,6,,CB
+99,22,6,14,13,"[Trapping,Ball Control]",FW
+100,131,3,8,4,Perfect Kick Accuracy,FW
+101,50,1,3,6,,FW
+102,134,1,4,5,,FW
+103,64,6,18,4,,CB
+104,92,1,1,2,"[Vertical Jump,Headers,Traitor]",FW
+105,129,1,2,11,,FW
+106,37,2,7,1,"[Kick Accuracy,Dribbling,Flow State,Puppet Control,Spatial Awareness]",FW
+107,37,5,12,10,"[Kick Accuracy,Dribbling,Flow State,Puppet Control,Spatial Awareness,Destroyer Mode]",FW
+108,37,6,18,9,"[Kick Accuracy,Dribbling,Flow State,Puppet Control,Spatial Awareness,Destroyer Mode]",FW
+109,37,4,9,1,"[Kick Accuracy,Dribbling,Flow State,Puppet Control,Spatial Awareness]",FW
+110,121,6,18,10,"[Godspeed,Agility]",FW
+111,53,1,2,4,,FW
+112,42,6,15,1,,GK
+113,111,6,15,3,,CB
+114,133,6,17,130,,FW
+115,133,2,7,13,,FW
+116,133,5,12,130,,FW
+117,133,4,9,13,,FW
+118,107,3,8,5,"[Extreme Physique,Jumping Power,Headers]",FW
+119,105,1,5,7,,FW
+120,27,6,14,22,"[Stamina,Physique,Man-Marking]",DM
+121,27,1,1,10,"[Stamina,Physique,Man-Marking]",FW
+122,27,2,7,95,"[Stamina,Physique,Man-Marking]",FW
+123,27,4,10,95,"[Stamina,Physique,Man-Marking]",FW
+124,27,5,12,95,"[Stamina,Physique,Man-Marking]",DM
+125,115,6,17,17,"[Jumping Power,Long Reach,Headers]",CB
+126,115,2,7,2,"[Jumping Power,Long Reach,Headers]",FW
+127,115,5,12,2,"[Jumping Power,Long Reach,Headers]",CB
+128,115,4,9,2,"[Jumping Power,Long Reach,Headers]",FW
+129,62,6,15,4,,CM
+130,122,3,8,3,Extreme Physique,FW
+131,3,1,5,6,,FW
+132,10,6,15,7,,DM
+133,10,5,13,7,,DM
+134,15,6,15,6,,DM
+135,15,5,13,6,,DM
+136,34,1,2,8,,FW
+137,47,5,12,9,"[Agility,Off Ball Movement,Stealth Walk]",RW
+138,47,6,15,13,"[Agility,Off Ball Movement,Stealth Walk]",RW
+139,47,2,7,33,"[Agility,Off Ball Movement,Stealth Walk]",FW
+140,47,4,10,33,"[Agility,Off Ball Movement,Stealth Walk]",FW
+141,114,6,16,74,"[Eye Contact]",FW
+142,114,1,4,10,"[Eye Contact]",FW
+143,114,4,11,74,"[Eye Contact]",FW
+144,116,2,6,53,"[Acceleration,Left Foot Shot]",FW
+145,116,4,11,53,"[Acceleration,Left Foot Shot]",FW
+146,116,5,12,15,"[Acceleration,Left Foot Shot]",RW
+147,116,6,18,29,"[Acceleration,Left Foot Shot]",RW
+148,116,1,5,10,"[Acceleration,Left Foot Shot]",FW
+149,106,2,7,29,Messi Meme,FW
+150,106,6,16,29,Messi Meme,FW
+151,106,4,9,29,Messi Meme,FW
+152,84,6,14,21,,CM
+153,19,1,4,1,,FW
+154,76,6,16,6,,RWB
+155,52,2,6,100,,FW
+156,52,6,16,100,,FW
+157,52,4,10,100,,FW
+158,43,1,4,8,,FW
+159,24,1,5,4,,FW
+160,88,1,5,8,,FW
+161,2,1,2,5,,FW
+162,31,1,3,5,,FW
+163,20,1,1,4,"[Speed,Ball Control,Crossing]",FW
+164,20,2,6,44,"[Speed,Ball Control,Crossing]",FW
+165,20,2,7,44,"[Speed,Ball Control,Crossing]",FW
+166,20,5,12,4,"[Speed,Ball Control,Crossing]",RB
+167,20,6,16,44,"[Speed,Ball Control,Crossing]",LW
+168,96,1,4,3,,FW
+169,5,6,14,16,"[Speed,Dribbling,Passing,Off Ball Movement]",RB
+170,5,2,6,4,"[Speed,Dribbling,Passing,Off Ball Movement]",FW
+171,5,5,12,40,"[Speed,Dribbling,Passing,Off Ball Movement]",RB
+172,5,4,9,4,"[Speed,Dribbling,Passing,Off Ball Movement]",FW
+173,95,2,7,63,"[Spatial Awareness,Ball Stealing]",FW
+174,95,4,10,63,"[Spatial Awareness,Ball Stealing]",FW
+175,95,6,17,25,"[Spatial Awareness,Ball Stealing,Metavision]",DM
+176,95,5,12,3,"[Spatial Awareness,Ball Stealing]",CB
+177,95,1,2,7,"[Spatial Awareness,Ball Stealing]",FW
+178,65,6,14,23,"[Ball Control,Oassing,Reflex,Metavision,Flow State]",CM
+179,65,1,1,27,"[Ball Control,Oassing,Reflex,Metavision,Flow State]",FW
+180,65,2,7,27,"[Ball Control,Oassing,Reflex,Metavision,Flow State]",FW
+181,65,5,12,16,"[Ball Control,Oassing,Reflex,Metavision,Flow State]",RW
+182,65,4,9,27,"[Ball Control,Oassing,Reflex,Metavision,Flow State]",FW
+183,108,5,12,99,"[Ambidextrous,Off Ball Movement]",FW
+184,108,6,18,77,"[Ambidextrous,Off Ball Movement]",LW
+185,108,2,6,99,"[Ambidextrous,Off Ball Movement]",FW
+186,108,4,9,99,"[Ambidextrous,Off Ball Movement]",
+187,85,6,17,55,,FW
+188,85,2,7,55,,FW
+189,85,4,10,55,,FW
+190,123,6,17,2,"[Zombie Dribbling,Man Marking,Off Ball Defence]",CB
+191,25,6,16,5,,DM
+192,83,6,18,98,,FW
+193,83,2,7,98,,FW
+194,83,4,10,98,,FW
+195,46,6,14,7,,DM
+196,48,6,14,10,"[Predator Eye,Kaiser Impact,Metavision,Flow State,Spatial Awareness,Off Ball Movement]",FW
+197,57,6,17,8,,CM
+198,103,6,14,69,"[Physique,Balance,Flow State]",LB
+199,103,2,6,21,"[Physique,Balance,Flow State]",FW
+200,103,5,12,21,"[Physique,Balance,Flow State]",FW
+201,103,4,9,21,"[Physique,Balance,Flow State]",FW
+202,28,6,14,99,"[Spring-Like-Body,Flexible,Explosive Reaction,Flow State]",GK
+203,28,1,1,6,"[Spring-Like-Body,Flexible,Explosive Reaction]",FW
+204,28,4,11,88,"[Spring-Like-Body,Flexible,Explosive Reaction]",
+205,28,2,7,88,"[Spring-Like-Body,Flexible,Explosive Reaction]",FW
+206,28,5,12,1,"[Spring-Like-Body,Flexible,Explosive Reaction]",GK
+207,26,6,17,18,Stamina,CM
+208,26,5,13,11,Stamina,FW
+209,21,1,5,5,,FW
+210,45,6,15,9,,LW
+211,125,6,15,2,,CB
+212,70,6,14,4,,RB
+213,8,6,16,1,,GK
+214,80,6,18,3,,LB
+215,54,5,12,30,"[Agility,Physique,Stamina]",DM
+216,54,6,18,22,"[Agility,Physique,Stamina]",CM
+217,54,2,7,3,"[Agility,Physique,Stamina]",FW
+218,54,4,9,3,"[Agility,Physique,Stamina]",FW
+219,86,1,3,9,,FW
+220,132,6,15,9,,FW
+221,132,5,13,9,,FW
+222,60,6,14,5,"[Physique,Dribbling,Crossing]",OFM
+223,51,1,1,5,"[Off Ball Movement]",FW
+224,51,2,7,38,"[Off Ball Movement]",FW
+225,126,6,14,108,Diving,FW
+226,126,1,1,13,Diving,FW
+227,126,2,6,108,Diving,FW
+228,126,5,12,108,Diving,FW
+229,126,4,9,108,Diving,FW
+230,35,1,2,3,,FW
+231,33,6,16,3,,CB
+232,89,1,4,11,,FW
+233,55,6,15,20,,FW
+234,55,2,6,20,,FW
+235,55,4,10,20,,FW
+236,117,6,17,6,,RWB
+237,98,6,16,3,Physique,CB
+238,98,5,13,3,Physique,CB
+239,81,1,4,7,,FW
+240,63,1,3,8,,FW
+241,75,3,8,2,Dribbling,FW
+242,118,6,15,5,,LB
+243,44,6,16,5,,CB
+244,16,1,4,6,,FW
+245,23,1,3,4,,FW
+246,94,6,18,8,,LB
+247,69,6,15,10,,CM
+248,112,1,5,2,,FW
+249,56,1,2,6,,FW
+250,71,2,7,10,"[Copycat,Dexterity,Metavision,Flow State]",FW
+251,71,4,11,10,"[Copycat,Dexterity,Flow State]",FW
+252,71,5,12,14,"[Copycat,Dexterity,Flow State]",CB
+253,71,1,5,9,"[Copycat,Dexterity,Flow State]",FW
+254,71,6,16,14,"[Copycat,Dexterity,Metavision,Flow State]",CAM
+255,39,1,1,9,"[Power Shot,Physique]",FW
+256,39,2,7,50,"[Power Shot,Physique]",FW
+257,39,6,14,50,"[Power Shot,Physique,Ambidextrous,Man Marking,Finesse Shot,Flow State]",FW/DM
