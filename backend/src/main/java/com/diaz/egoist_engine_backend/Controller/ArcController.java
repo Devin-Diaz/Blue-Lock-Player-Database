@@ -23,12 +23,19 @@ public class ArcController {
 
     @GetMapping
     public List<Arc> getAllArcs() {
-        return arcService.getAllArcs();
+        List<Arc> arcs = arcService.getAllArcs();
+        System.out.println("Retrieved Arcs: " + arcs);  // Log the retrieved arcs
+        return arcs;
     }
 
     @GetMapping("/{arcId}")
     public ResponseEntity<Arc> getArcById(@PathVariable Integer arcId) {
         Optional<Arc> arcOptional = arcService.getArcById(arcId);
-        return arcOptional.map(ResponseEntity::ok).orElseGet(() -> ResponseEntity.status(HttpStatus.NOT_FOUND).body(null));
+        arcOptional.ifPresent(arc -> System.out.println("Retrieved Arc by ID " + arcId + ": " + arc));  // Log the retrieved arc
+        return arcOptional.map(ResponseEntity::ok)
+                .orElseGet(() -> {
+                    System.out.println("Arc with ID " + arcId + " not found.");  // Log if not found
+                    return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
+                });
     }
 }
