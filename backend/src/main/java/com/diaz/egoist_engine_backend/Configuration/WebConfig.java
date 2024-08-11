@@ -9,7 +9,7 @@ public class WebConfig implements WebMvcConfigurer {
     @Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**")
-                .allowedOrigins("https://blue-lock-player-database-7se1sacfv-devin-diazs-projects.vercel.app/")
+                .allowedOrigins("https://blue-lock-player-database-7se1sacfv-devin-diazs-projects.vercel.app")
                 .allowedMethods("*");
     }
 }
