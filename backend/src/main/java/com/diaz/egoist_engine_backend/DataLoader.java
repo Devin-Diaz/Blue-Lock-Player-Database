@@ -45,7 +45,7 @@ public class DataLoader {
 
     private void loadPlayers() throws Exception {
         List<Player> players = new ArrayList<>();
-        try (CSVReader reader = new CSVReader(new FileReader(new ClassPathResource("player.csv").getFile()))) {
+        try (CSVReader reader = new CSVReader(new FileReader(new ClassPathResource("players.csv").getFile()))) {
             String[] line;
             reader.readNext();  // Skip header
             while ((line = reader.readNext()) != null) {
