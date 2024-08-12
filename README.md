@@ -1,4 +1,5 @@
 # Blue Lock Player Database
+blue-lock-player-database.vercel.app
 
 ## Overview
 
