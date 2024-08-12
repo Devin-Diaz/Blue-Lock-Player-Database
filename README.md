@@ -16,3 +16,5 @@ For this project, I chose popular technologies that are widely used in the indus
 - **Deployment**: Vercel & Railway
 
 I selected these technologies to enhance my skills and experience as a full-stack developer, while also ensuring that the application is built using reliable and scalable tools.
+
+<img src="isagi.jpg">
