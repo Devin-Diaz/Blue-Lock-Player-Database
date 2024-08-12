@@ -1,5 +1,5 @@
 # Blue Lock Player Database
-blue-lock-player-database.vercel.app
+[View the live site here!](https://blue-lock-player-database.vercel.app)
 
 ## Overview
 
